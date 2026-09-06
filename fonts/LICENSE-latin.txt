@@ -1,0 +1,3 @@
+Alegreya and Work Sans are licensed under the SIL Open Font License 1.1.
+https://github.com/google/fonts/blob/main/ofl/alegreya/OFL.txt
+https://github.com/google/fonts/blob/main/ofl/worksans/OFL.txt
